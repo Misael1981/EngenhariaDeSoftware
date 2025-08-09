@@ -7,3 +7,7 @@
 - ### [Arquitetura Hexagonal](./articles/ArquiteturaHexagonal.md)
 
 - ### [Clean Architecture (Arquitetura Limpa)](./articles/CleanArchitecture.md)
+
+## Pensamento Computacional
+
+- ### [Curso - Pensamento computacional: fundamentos da computação e lógica de programação](./pensamentoComputacional/menu.md)
